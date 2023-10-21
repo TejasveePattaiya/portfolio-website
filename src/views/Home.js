@@ -47,22 +47,22 @@ const Home = () => {
           <Typography
             variant="body1"
             color="initial"
-            sx={{ color: "#fff", fontSize: 40, fontWeight: 600 }}
+            sx={{ color: "#fff",fontSize: 40,fontWeight: 600 }}
           >
             Tejasvee Pattaiya
           </Typography>
-          <Box sx={{ display: "flex", gap: 1 }}>
+          <Box sx={{ display: "flex",gap: 1 }}>
             <Typography
               variant="body1"
               color="initial"
-              sx={{ color: "#fff", fontSize: 20, fontWeight: 600 }}
+              sx={{ color: "#fff",fontSize: 20,fontWeight: 600 }}
             >
-              And I'm a{" "}
+              And I'm a
             </Typography>
             <Typography
               variant="body1"
               color="initial"
-              sx={{ color: "#33e7f2", fontSize: 20, fontWeight: 600 }}
+              sx={{ color: "#33e7f2",fontSize: 20, fontWeight: 600 }}
             >
               Frontend Devoloper
             </Typography>
